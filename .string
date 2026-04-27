@@ -1,0 +1,5 @@
+String name = "John Doe";
+String city = 'New York';
+String multiline = """This is a
+multiline string""";
+String 
