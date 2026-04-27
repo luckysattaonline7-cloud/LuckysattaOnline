@@ -1,7 +1,7 @@
 {
  "name": "lucky-satta-backend",
  "version": "1.0.0",
- "description":"FirstLuckySatta Online System",
+ "description:"FirstLuckySatta Online System",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
